@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Sumair Qaisar👋 
 
-<!--
-**sumairq/sumairq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full Stack Web and Blockchain developer!
 
-Here are some ideas to get you started:
+- 🔭 Looking for my first job
+- 🌱 Currently mastering javascript and Solidity
+- 👯 Open to collaborate with other coders
+- 🥅 2022 Goals: Work in a open source project
+- 🆓 Available for hiring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/sumair_qaisar)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/sumair-qaisar-jadoon-84a877164)
+
+<br />
+
+### Languages and Tools:
+- HTML
+- CSS
+- JavaScript
+- Solidity
+- Truffle
+- Webpack
+- Github
+- Jest
