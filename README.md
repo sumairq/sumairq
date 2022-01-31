@@ -5,7 +5,7 @@
 - 🔭 Looking for my first job
 - 🌱 Currently mastering javascript and Solidity
 - 👯 Open to collaborate with other coders
-- 🥅 2022 Goals: Work in a open source project
+- 🥅 2022 Goals: Work on open source projects
 - 🆓 Available for hiring
 
 ### Connect with me:
