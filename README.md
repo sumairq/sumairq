@@ -1,6 +1,6 @@
 ### Hi there, I'm Sumair Qaisar👋 
 
-## I'm a Full Stack Web and Blockchain developer!
+## I'm a Full-stack Web and Blockchain developer!
 
 - 🔭 Looking for my first job
 - 🌱 Currently mastering JavaScript and Solidity
