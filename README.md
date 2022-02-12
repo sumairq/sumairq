@@ -3,7 +3,7 @@
 ## I'm a Full Stack Web and Blockchain developer!
 
 - 🔭 Looking for my first job
-- 🌱 Currently mastering javascript and Solidity
+- 🌱 Currently mastering JavaScript and Solidity
 - 👯 Open to collaborate with other coders
 - 🥅 2022 Goals: Work on open source projects
 - 🆓 Available for hiring
