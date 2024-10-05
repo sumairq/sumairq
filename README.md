@@ -11,7 +11,7 @@
 - **Jaypeak Tours**: A tour booking platform using a React frontend and a Ruby on Rails API backend.
 
 📈 **Open Source Contributions**  
-I’ve contributed to impactful open-source projects such as Mozilla and PerfCompare (a tool enhancing performance comparison), gaining experience in large-scale codebases and collaboration.
+I’ve contributed to impactful open-source projects such as Mozilla's PerfCompare (a tool enhancing performance comparison), gaining experience in large-scale codebases and collaboration.
 
 🔍 **I’m actively seeking** full-time roles as a full-stack developer, where I can contribute my technical expertise, learn new technologies, and grow alongside a talented team.
 
